@@ -13,12 +13,12 @@
   
    <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/twitter-flexbox-layout">
   
-### :rocket: Technologies
+## :rocket: Technologies
 
 - HTLM5
 - CSS3
   
-### :memo: License
+## :memo: License
 
 This project is under the MIT license.
 
